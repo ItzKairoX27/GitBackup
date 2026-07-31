@@ -1,0 +1,4 @@
+dist
+dist-ssr
+src-tauri/target
+node_modules
